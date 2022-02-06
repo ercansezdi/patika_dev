@@ -11,6 +11,8 @@ namespace ConsoleApp8
             instance.test(5);
             instance.test(5.5f);
             instance.test("TEST");
+            instance.out_test(3, 5, out int result);
+            instance.test(result);
 
         }
     }
@@ -27,6 +29,10 @@ namespace ConsoleApp8
         public void test(float name)
         {
             Console.WriteLine(name);
+        }
+        public void out_test(int a, int b, out int toplam)
+        {
+            toplam = a + b;
         }
     }
 }
