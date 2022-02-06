@@ -1,0 +1,15 @@
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.exe
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.deps.json
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.json
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.dll
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.dll
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\ercan\Desktop\patika_dev\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.genruntimeconfig.cache
