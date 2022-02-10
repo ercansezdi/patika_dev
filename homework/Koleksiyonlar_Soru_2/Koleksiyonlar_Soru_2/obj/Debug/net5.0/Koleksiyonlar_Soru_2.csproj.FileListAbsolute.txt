@@ -1,0 +1,15 @@
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.exe
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.deps.json
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.runtimeconfig.json
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.runtimeconfig.dev.json
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.dll
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\ref\Koleksiyonlar_Soru_2.dll
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.pdb
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.AssemblyInfoInputs.cache
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.AssemblyInfo.cs
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.csproj.CoreCompileInputs.cache
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.dll
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\ref\Koleksiyonlar_Soru_2.dll
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.pdb
+C:\Users\ercan\Desktop\patika_dev\homework\Koleksiyonlar_Soru_2\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.genruntimeconfig.cache
